@@ -10,7 +10,3 @@ spring:
           uri: https://github.com/thiagoporb/config-files
           #clone-on-start: true
           #username: thiagoporb
-    bus:
-      enabled: true
-  kafka:
-    bootstrap-servers: http://localhost:9092
